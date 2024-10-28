@@ -8,3 +8,4 @@ def cube(x):
 print("Значение может быть любым действительным числом")
 x = float(input("Введите значение x: "))
 print("Квадрат числа: {0:.5f}".format(square(x)))
+print("Куб числа: {0:.5f}".format(cube(x)))
